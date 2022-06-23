@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Omri Abarbanel
-    tagline: Copmutational Chemistry PhD Candidate
+    tagline: Computational Chemistry PhD Candidate
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
